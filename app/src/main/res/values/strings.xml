@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RegisstGlowUp</string>
+    <string name="hi_beauty">Hi Beauty,</string>
+    <string name="welcome">Welcome!</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_emaill">Enter Your Email</string>
+    <string name="pasword">Pasword</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+</resources>
